@@ -7,6 +7,7 @@ Have you ever wanted to clean up your PNG - ridden desktop? Maybe you're a Unity
 
 This lil java + swing project I made takes care of that, by taking user input that specifies the file type and then moving them to the target directories.
 
-05/02/2024
+05/03/2024
+Currently not an excecutable file I think
 
 
